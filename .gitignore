@@ -1,0 +1,22 @@
+# ── Build outputs ─────────────────────────────────────────────────────────────
+*.iml
+.gradle/
+local.properties
+.idea/
+.DS_Store
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.ap_
+
+# ── Firebase ── NEVER commit this file ───────────────────────────────────────
+# google-services.json is intentionally excluded.
+# Each developer/CI pipeline must obtain it from the Firebase Console.
+app/google-services.json
+
+# ── Keystore ──────────────────────────────────────────────────────────────────
+*.jks
+*.keystore
