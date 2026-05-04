@@ -1,0 +1,5 @@
+<resources>
+    <!-- Base application theme. Compose handles all visual theming in code.
+         This XML theme is just a shell to satisfy the manifest reference. -->
+    <style name="Theme.TerraSync" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
