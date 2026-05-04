@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="app/src/main/res/drawable/ic_launcher.png" alt="TerraSync Logo" width="120" />
+</p>
+
 <h1 align="center">🌍 TerraSync</h1>
 
 <p align="center">
